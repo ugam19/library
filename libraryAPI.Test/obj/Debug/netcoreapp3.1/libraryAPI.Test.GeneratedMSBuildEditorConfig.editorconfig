@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = libraryAPI.Test
+build_property.ProjectDir = C:\project\Library.API\libraryAPI.Test\
